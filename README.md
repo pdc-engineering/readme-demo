@@ -19,12 +19,19 @@
 ## Repositórios dos serviços do Backend
 
 https://github.com/pdc-engineering/pdc-neo
+
 https://github.com/pdc-engineering/pdc-community
+
 https://github.com/pdc-engineering/pdc-auth-sso
+
 https://github.com/pdc-engineering/pdc-external-service
+
 https://github.com/pdc-engineering/pdc-sso-keycloak
+
 https://github.com/pdc-engineering/pdc-internal_busbars
+
 https://github.com/pdc-engineering/pdc-course-service
+
 https://github.com/pdc-engineering/pdc-admin-service
 
 **Tecnologias e Bibliotecas Usadas no Frontend:**
