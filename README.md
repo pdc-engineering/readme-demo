@@ -5,7 +5,7 @@
 3. [SSO Keycloak](#sso-keycloak)
 4. [PDC Login Frontend](#pdc-login-frontend)
 5. [PDC Canteiro do APP](#pdc-canteiro-do-app)
-6. [PDC Foundation Package] (#lib-pdc-ms)
+6. [PDC Foundation Package](#lib-pdc-ms)
 
 [![js-standard-style](https://img.shields.io/badge/code%20style-standard-brightgreen.svg)](http://standardjs.com)
 
